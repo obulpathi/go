@@ -1,2 +1,3 @@
-# go
-Go
+# Go
+
+The Go Programming Language
